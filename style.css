@@ -50,6 +50,7 @@ button{
     background-color: #fb7c14;
     border: 3px solid #fb7c14;
     color: #1e1e1e;
+    box-shadow: inset 10px 10px 10px rgba(56, 27, 3, 0.25);
 }
 .operator{
     color: #91eb50;
