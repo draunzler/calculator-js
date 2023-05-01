@@ -44,14 +44,14 @@ button{
     border: 3.2px solid #293041;
     color: #d2d2d2;
     font-size: 20px;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.6), inset 10px 10px 10px rgba(7, 14, 32, 0.25);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.6), inset 10px 10px 10px rgba(7, 14, 32, 0.2);
     cursor: pointer;
 }
 .equalBtn{
     background-color: #fb7c14;
     border: 3.2px solid #fb7c14;
     color: #1e1e1e;
-    box-shadow: inset 10px 10px 10px rgba(56, 27, 3, 0.25);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.6), inset 10px 10px 10px rgba(56, 27, 3, 0.2);
 }
 .operator{
     color: #91eb50;
