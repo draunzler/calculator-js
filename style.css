@@ -11,13 +11,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #1e1e1e;
+    background: #fff;
 }
 .calculator{
     border: 1px solid #e1e1e1;
     padding: 20px;
     border-radius: 15px;
-    background: transparent;
+    background: #1e1e1e;
 }
 input{
     width: 320px;
